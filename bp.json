@@ -1,0 +1,58 @@
+{
+  "producer_account_name": "eosnairobike",
+  "producer_public_key": "EOS54UAELQVaMrc1y98W7KsfLbBchvsQg7FCEYpoiQLi5y1Gvyqcy",
+  "org": {
+    "candidate_name": "eosnairobike",
+    "website": "www.eosnairobi.io",
+    "code_of_conduct":"",
+    "email":"blocks@eosnairobi.io",
+    "branding":{
+      "logo_256":"https://avatars1.githubusercontent.com/u/39456838?s=400&u=41d1b8ddccef5faa64af63560fea809490b61c51&v=4",
+      "logo_1024":"",
+      "logo_svg":""
+    },
+    "location": {
+      "name": "Nairobi",
+      "country": "Kenya",
+      "latitude": -1.28333,
+      "longitude": 36.81667
+    },
+    "social": {
+      "steemit": "https://steemit.com/@eosnairobi",
+      "twitter": "@EosNairobi",
+      "youtube": "",
+      "facebook": "",
+      "github":"https://github.com/eosnairobi",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "t.me/eosnairobi",
+      "wechat":""
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "",
+        "country": "",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": ,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "",
+        "country": "",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
