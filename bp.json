@@ -18,24 +18,24 @@
       "longitude": 36.81667
     },
     "social": {
-      "steemit": "https://steemit.com/@eosnairobi",
+      "steemit": "eosnairobi",
       "twitter": "@EosNairobi",
-      "youtube": "",
+      "youtube": "channel/UCyNo-qXKUMPxhIrt2TUTtgg",
       "facebook": "",
-      "github":"https://github.com/eosnairobi",
+      "github":"eosnairobi",
       "reddit": "",
       "keybase": "",
-      "telegram": "t.me/eosnairobi",
+      "telegram": "eosnairobi",
       "wechat":""
     }
   },
   "nodes": [
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "name": "Nairobi",
+        "country": "Kenya",
+        "latitude": 	1.3281,
+        "longitude": 36.8666
       },
       "is_producer": ,
       "p2p_endpoint": "",
