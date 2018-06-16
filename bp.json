@@ -3,28 +3,28 @@
   "producer_public_key": "EOS54UAELQVaMrc1y98W7KsfLbBchvsQg7FCEYpoiQLi5y1Gvyqcy",
   "org": {
     "candidate_name": "eosnairobike",
-    "website": "www.eosnairobi.io",
-    "code_of_conduct":"",
+    "website": "http://www.eosnairobi.io/",
+    "code_of_conduct":"https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0",
     "email":"blocks@eosnairobi.io",
     "branding":{
-      "logo_256":"https://avatars1.githubusercontent.com/u/39456838?s=400&u=41d1b8ddccef5faa64af63560fea809490b61c51&v=4",
+      "logo_256":"",
       "logo_1024":"",
       "logo_svg":""
     },
     "location": {
-      "name": "Nairobi",
-      "country": "Kenya",
-      "latitude": -1.28333,
-      "longitude": 36.81667
+      "name": "East Africa",
+      "country": "KE",
+      "latitude": 0.0236,
+      "longitude": 37.9062
     },
     "social": {
-      "steemit": "eosnairobi",
+      "steemit": "@eosnairobi",
       "twitter": "@EosNairobi",
       "youtube": "channel/UCyNo-qXKUMPxhIrt2TUTtgg",
       "facebook": "",
       "github":"eosnairobi",
       "reddit": "",
-      "keybase": "",
+      "keybase": "eosnairobi",
       "telegram": "eosnairobi",
       "wechat":""
     }
@@ -33,11 +33,11 @@
     {
       "location": {
         "name": "Nairobi",
-        "country": "Kenya",
-        "latitude": 	1.3281,
+        "country": "KE",
+        "latitude": 1.3281,
         "longitude": 36.8666
       },
-      "is_producer": ,
+      "is_producer": false,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
@@ -46,13 +46,26 @@
       "location": {
         "name": "",
         "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "latitude": "",
+        "longitude": ""
       },
-      "is_producer": true,
+      "is_producer": false,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    },
+    {
+      "location": {
+        "name": "",
+        "country": "",
+        "latitude": "",
+        "longitude": ""
+      },
+      "is_producer": false,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
     }
   ]
 }
+
