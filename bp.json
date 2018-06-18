@@ -8,8 +8,8 @@
     "email":"blocks@eosnairobi.io",
     "branding":{
       "logo_256":"https://github.com/eosnairobi/bp_info/blob/master/EOSBPlisting/logo256.png",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_1024":"https://github.com/eosnairobi/bp_info/blob/master/EOSBPlisting/logo1024.png",
+      "logo_svg":"https://github.com/eosnairobi/bp_info/blob/master/EOSBPlisting/logo.svg"
     },
     "location": {
       "name": "East Africa",
